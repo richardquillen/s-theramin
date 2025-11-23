@@ -21,3 +21,14 @@ Either way, check it out.
 
 ### User Interface
 the most basic interface I could throw together
+
+### Dependencies
+To build and run this application, you will need the following dependencies:
+
+- **pacman**: For managing packages on Arch-based Linux distributions
+- **gcc**: Compiler
+- **3ds-dev**: Development tools for 3DS homebrew
+- **libctru**: A library for 3DS development.
+- **devkitPro**: A toolchain for developing homebrew applications for various platforms, including the 3DS.
+
+Ensure these are installed before attempting to build the project.
